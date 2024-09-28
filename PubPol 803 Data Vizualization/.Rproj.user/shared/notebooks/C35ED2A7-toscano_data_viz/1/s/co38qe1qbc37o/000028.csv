@@ -1,0 +1,4 @@
+"0","library(formattable)"
+"2","Error: package or namespace load failed for ‘formattable’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ namespace ‘htmltools’ 0.5.5 is already loaded, but >= 0.5.7 is required
+"

@@ -1,0 +1,4 @@
+"0","doing_the_least %>% "
+"0","  ggplot(aes(x=reorder(city, ratio_spend_to_park_pct), y=ratio_spend_to_park_pct)) +"
+"0","  geom_bar(stat='identity') +"
+"0","  coord_flip()"
