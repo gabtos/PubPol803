@@ -326,6 +326,8 @@ cities_in_cluster_4 <- parkTrain %>%
 
 ```
 
+
+## Tracking spending changes from 2012 to 2017
 ```{r}
 # who changed the most in spending
 
